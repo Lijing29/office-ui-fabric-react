@@ -1,0 +1,8 @@
+{
+  "comment": "Cherry pick of a commit from Fabric 7 master branch to Fabric 6 to fix bug: Checkbox-Tab focus rectangle fix",
+  "type": "patch",
+  "packageName": "office-ui-fabric-react",
+  "email": "lilijing@microsoft.com",
+  "commit": "",
+  "date": "2019-09-09T07:53:08.141Z"
+}
